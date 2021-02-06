@@ -1,4 +1,4 @@
-# Sudokuprogram:
+# Sudoku :
 * Originally a purely console based UI, ported to a GUI using pygame.
 Trying to keep some of my functions and algorithms functionable
 across the port, led to a lot of spaghetticode which im not proud of.
@@ -23,4 +23,4 @@ Eks: my_game_board.txt
 ## Note:
 * The program is very specific in which sudoku-boards it can read. 
 View the examplefile if you wish to play your own board.
-* I do not know how to spell suduko, so bear with me if you look in to the code ;)
+* I somehow didn't bother to learn how to spell sudoku, so bear with me if you look through the code ;)  
