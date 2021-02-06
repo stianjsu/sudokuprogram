@@ -23,4 +23,4 @@ Eks: my_game_board.txt
 ## Note:
 * The program is very specific in which sudoku-boards it can read. 
 View the examplefile if you wish to play your own board.
-* I do not know how to spell suduko, so bear with me if you look in to the code
+* I do not know how to spell suduko, so bear with me if you look in to the code ;)
